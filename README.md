@@ -1,15 +1,2 @@
 # Name-must-not-be-blank
-repositorioteste
-repositorioteste
-repositorioteste
-repositorioteste
-repositorioteste
-repositorioteste
-repositorioteste
-repositorioteste
-repositorioteste
-repositorioteste
-repositorioteste
-repositorioteste
-# REP0SIT0RI0TESTE
-(repositorioteste)
+# _🐴_
